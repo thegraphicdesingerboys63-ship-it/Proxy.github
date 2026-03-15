@@ -1,0 +1,13 @@
+{
+  "name": "proxyhub",
+  "version": "1.0.0",
+  "main": "proxyhub.js",
+  "scripts": {
+    "start": "node proxyhub.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0",
+    "express": "^4.18.0"
+  }
+}
